@@ -1,6 +1,6 @@
 # FunnyKeylogger
 
-FunnyKeylogger is very clear to understand and i think lightest Keylogger ever written. Do you ever see keylogger for just 2KB of size ?! maybe :)
+FunnyKeylogger is very clear to understand and one of the lightest Keylogger ever written. Do you ever see keylogger for just 2KB of size ?! maybe :)
 
 The code written in C# language using standard Windows API calls.
 
@@ -21,4 +21,4 @@ Here is three steps to run FunnyKeylogger :
 	- Run "Set-ExecutionPolicy Unrestricted"
 	- Run the script by right click on it and select "Run with PowerShell" or command line
 	
-This is code born from a few minutes of my free times and will be improved in the future.
+This code born from a few minutes of my free times and will be improved in the future.
