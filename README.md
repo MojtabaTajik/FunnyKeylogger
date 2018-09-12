@@ -2,6 +2,8 @@
 
 FunnyKeylogger is very clear to understand and one of the lightest Keylogger ever written. Do you ever see keylogger for just 2KB of size ?! maybe :)
 
+The code developed just for educational purposes.
+
 The code written in C# language using standard Windows API calls.
 
 .Net executables is very light in size because of underlying architecture of .Net framework 
